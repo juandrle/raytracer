@@ -1,28 +1,3 @@
-"""
-/*******************************************************************************
- *
- *            #, #,         CCCCCC  VV    VV MM      MM RRRRRRR
- *           %  %(  #%%#   CC    CC VV    VV MMM    MMM RR    RR
- *           %    %## #    CC        V    V  MM M  M MM RR    RR
- *            ,%      %    CC        VV  VV  MM  MM  MM RRRRRR
- *            (%      %,   CC    CC   VVVV   MM      MM RR   RR
- *              #%    %*    CCCCCC     VV    MM      MM RR    RR
- *             .%    %/
- *                (%.      Computer Vision & Mixed Reality Group
- *
- ******************************************************************************/
-/**          @copyright:   Hochschule RheinMain,
- *                         University of Applied Sciences
- *              @author:   Prof. Dr. Ulrich Schwanecke, Fabian Stahl
- *             @version:   2.0
- *                @date:   01.04.2023
- ******************************************************************************/
-/**         raytracerTemplate.py
- *
- *          Simple Python template to generate ray traced images and display
- *          results in a 2D scene using OpenGL.
- ****
-"""
 from rendering import Scene, RenderWindow
 import numpy as np
 import rt3
