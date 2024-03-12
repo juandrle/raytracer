@@ -1,31 +1,3 @@
-"""
-/*******************************************************************************
- *
- *            #, #,         CCCCCC  VV    VV MM      MM RRRRRRR
- *           %  %(  #%%#   CC    CC VV    VV MMM    MMM RR    RR
- *           %    %## #    CC        V    V  MM M  M MM RR    RR
- *            ,%      %    CC        VV  VV  MM  MM  MM RRRRRR
- *            (%      %,   CC    CC   VVVV   MM      MM RR   RR
- *              #%    %*    CCCCCC     VV    MM      MM RR    RR
- *             .%    %/
- *                (%.      Computer Vision & Mixed Reality Group
- *
- ******************************************************************************/
-/**          @copyright:   Hochschule RheinMain,
- *                         University of Applied Sciences
- *              @author:   Prof. Dr. Ulrich Schwanecke, Fabian Stahl
- *             @version:   2.0
- *                @date:   01.04.2023
- ******************************************************************************/
-/**         rendering.py
- *
- *          This module is used to create a ModernGL context using GLFW.
- *          It provides the functionality necessary to execute and visualize code
- *          specified by students in the according template.
- *          ModernGL is a high-level modern OpenGL wrapper package.
- ****
-"""
-
 import glfw
 import imgui
 import numpy as np
